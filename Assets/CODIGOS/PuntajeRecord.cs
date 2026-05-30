@@ -13,7 +13,8 @@ public class PuntajeRecord : MonoBehaviour{
 
     // Update is called once per frame
     void Update(){
-        if(LogicaPuntaje.Puntaje > PlayerPrefs.GetInt("Record Score", 0)){
+        //PlayerPrefs.DeleteKey("Record Score");
+        if (LogicaPuntaje.Puntaje > PlayerPrefs.GetInt("Record Score", 0)){
             PlayerPrefs.SetInt("Record Score", LogicaPuntaje.Puntaje);
             GetComponent<TextMeshProUGUI>().text = LogicaPuntaje.Puntaje.ToString();
         }

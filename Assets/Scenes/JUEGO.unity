@@ -302,7 +302,7 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.72998124, y: -0.47564074}
+    - - {x: 0.6223648, y: -0.47922796}
       - {x: 0.49795595, y: -0.4725945}
       - {x: 0.45210797, y: -0.4628289}
       - {x: 0.43630865, y: -0.28510937}
@@ -325,22 +325,23 @@ PolygonCollider2D:
       - {x: 0.37080184, y: 0.20084955}
       - {x: 0.39228177, y: 0.23054811}
       - {x: 0.40688777, y: 0.27216122}
-      - {x: 0.40948072, y: 0.32113212}
-      - {x: 0.38298714, y: 0.34966967}
-      - {x: 0.36426145, y: 0.37452975}
+      - {x: 0.40268221, y: 0.3112433}
+      - {x: 0.38484126, y: 0.33730862}
+      - {x: 0.36487952, y: 0.36031458}
       - {x: 0.32699916, y: 0.3740709}
-      - {x: 0.28991774, y: 0.42681333}
-      - {x: 0.245833, y: 0.44331744}
+      - {x: 0.2880636, y: 0.40579954}
+      - {x: 0.23903443, y: 0.43033835}
       - {x: 0.17262569, y: 0.4992293}
       - {x: 0.089008875, y: 0.50279343}
-      - {x: 0.05117306, y: 0.511181}
-      - {x: 0.058537617, y: 0.54908806}
-      - {x: 0.058537617, y: 0.6212733}
-      - {x: 0.03853762, y: 0.67536145}
-      - {x: 0.0005816277, y: 0.71433944}
-      - {x: -0.111383475, y: 0.72047156}
-      - {x: -0.1662662, y: 0.6738806}
-      - {x: -0.19845866, y: 0.6553615}
+      - {x: 0.041681565, y: 0.51253694}
+      - {x: 0.05311395, y: 0.56468123}
+      - {x: 0.055147834, y: 0.62534106}
+      - {x: 0.030402075, y: 0.6618022}
+      - {x: 0.016852712, y: 0.6967124}
+      - {x: -0.053083543, y: 0.7078744}
+      - {x: -0.10799367, y: 0.6872513}
+      - {x: -0.15948658, y: 0.6548977}
+      - {x: -0.18489942, y: 0.6207854}
       - {x: -0.18603353, y: 0.60738826}
       - {x: -0.17557625, y: 0.5734664}
       - {x: -0.13942404, y: 0.53881127}
@@ -376,28 +377,30 @@ PolygonCollider2D:
       - {x: -0.5247259, y: -0.44827786}
       - {x: -0.5678669, y: -0.45700282}
       - {x: -0.58089817, y: -0.48070624}
-      - {x: -0.6848944, y: -0.4654776}
-      - {x: -0.72107387, y: -0.46335524}
-      - {x: -0.75875604, y: -0.45993954}
-      - {x: -0.7926184, y: -0.4588593}
-      - {x: -0.82439476, y: -0.46758854}
-      - {x: -0.8101619, y: -0.55038357}
-      - {x: -0.7895426, y: -0.6154716}
-      - {x: -0.7443068, y: -0.66824424}
-      - {x: -0.6893807, y: -0.6954716}
-      - {x: -0.538878, y: -0.7107566}
-      - {x: -0.32129174, y: -0.7234421}
-      - {x: -0.12407464, y: -0.71717066}
-      - {x: 0.14513467, y: -0.7041099}
-      - {x: 0.34005004, y: -0.69840676}
-      - {x: 0.51184374, y: -0.6943949}
-      - {x: 0.7101619, y: -0.6905454}
-      - {x: 0.7457527, y: -0.655606}
-      - {x: 0.7616252, y: -0.6093284}
-      - {x: 0.790194, y: -0.5874374}
-      - {x: 0.80693173, y: -0.5553096}
-      - {x: 0.83030635, y: -0.5059191}
-      - {x: 0.795608, y: -0.48281807}
+      - {x: -0.6109978, y: -0.49561018}
+      - {x: -0.6521993, y: -0.48990062}
+      - {x: -0.6812722, y: -0.48720235}
+      - {x: -0.71470636, y: -0.48644298}
+      - {x: -0.7538765, y: -0.4911442}
+      - {x: -0.7935447, y: -0.5041781}
+      - {x: -0.78433394, y: -0.55899286}
+      - {x: -0.76730186, y: -0.6140367}
+      - {x: -0.7335452, y: -0.6495908}
+      - {x: -0.6692922, y: -0.66749126}
+      - {x: -0.54676986, y: -0.67990655}
+      - {x: -0.37294766, y: -0.6875699}
+      - {x: -0.13124901, y: -0.6856032}
+      - {x: 0.06765083, y: -0.68473893}
+      - {x: 0.3472245, y: -0.6811881}
+      - {x: 0.48689243, y: -0.6782209}
+      - {x: 0.57426125, y: -0.6743065}
+      - {x: 0.7130317, y: -0.670457}
+      - {x: 0.7314038, y: -0.63766986}
+      - {x: 0.75516814, y: -0.59784925}
+      - {x: 0.7693881, y: -0.57093626}
+      - {x: 0.7811038, y: -0.5502875}
+      - {x: 0.7786506, y: -0.4915703}
+      - {x: 0.73677766, y: -0.47994828}
     - - {x: -0.35, y: -0.49499997}
       - {x: -0.32, y: -0.42499998}
       - {x: -0.32, y: -0.405}
@@ -1033,6 +1036,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bloque_1
       objectReference: {fileID: 0}
+    - target: {fileID: 5725226487096971674, guid: decb99e5ed574b545a36ded6cdb59c51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1842605079918193722, guid: decb99e5ed574b545a36ded6cdb59c51, type: 3}
     - {fileID: 4608297015351040632, guid: decb99e5ed574b545a36ded6cdb59c51, type: 3}
@@ -1097,7 +1105,7 @@ MonoBehaviour:
   m_text: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 8b29aaa3eec7468097ff07adfcf29ac9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1106,13 +1114,14 @@ MonoBehaviour:
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
-  m_colorMode: 3
+  m_colorMode: 0
   m_fontColorGradient:
     topLeft: {r: 1, g: 1, b: 1, a: 1}
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
+  m_fontColorGradientPreset: {fileID: 11400000, guid: 479a66fa4b094512a62b0a8e553ad95a,
+    type: 2}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
@@ -1127,7 +1136,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1255,7 +1264,7 @@ MonoBehaviour:
   m_text: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 8b29aaa3eec7468097ff07adfcf29ac9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1388,7 +1397,7 @@ MonoBehaviour:
   m_text: 'RECORD:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 8b29aaa3eec7468097ff07adfcf29ac9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1539,6 +1548,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bloque_2
       objectReference: {fileID: 0}
+    - target: {fileID: 5725226487096971674, guid: decb99e5ed574b545a36ded6cdb59c51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1842605079918193722, guid: decb99e5ed574b545a36ded6cdb59c51, type: 3}
     - {fileID: 4608297015351040632, guid: decb99e5ed574b545a36ded6cdb59c51, type: 3}
@@ -1560,6 +1574,16 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: ae309414b58a2fc4780269ad9b3209e4, type: 3}
+    - target: {fileID: 7535661914162798282, guid: b0e6d1521eadcab488b9a7c1876adf25,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7535661914162798282, guid: b0e6d1521eadcab488b9a7c1876adf25,
+        type: 3}
+      propertyPath: Pan2D
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 7535661914162798283, guid: b0e6d1521eadcab488b9a7c1876adf25,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1805,7 +1829,7 @@ MonoBehaviour:
   m_text: 'SCORE:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 8b29aaa3eec7468097ff07adfcf29ac9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
