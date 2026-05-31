@@ -12,10 +12,17 @@ Un juego móvil de endless runner donde controlas a un patinador navegando a tra
 
 ## Capturas de Pantalla
 
-| Teléfono |
-|----------|
-| ![Teléfono 1](SCREENSHOTS/CELULAR/1.png) |
-| ![Teléfono 2](SCREENSHOTS/CELULAR/2.png) |
+| Menú | Juego | Game Over | Volumen |
+|------|-------|-----------|---------|
+| ![Menú](Images/menu.png) | ![Juego](Images/game.png) | ![Game Over](Images/game_over.png) | ![Volumen](Images/volume.png) |
+
+---
+
+## Video de Jugabilidad
+
+[![Video de Jugabilidad](Images/game.png)](Videos/gameplay.mp4)
+
+> Haz clic en la imagen para ver el video de jugabilidad, o abre `Videos/gameplay.mp4` directamente.
 
 ---
 

@@ -12,10 +12,17 @@ An endless runner mobile game where you control a skater navigating through obst
 
 ## Screenshots
 
-| Phone |
-|-------|
-| ![Phone 1](SCREENSHOTS/CELULAR/1.png) |
-| ![Phone 2](SCREENSHOTS/CELULAR/2.png) |
+| Menu | Gameplay | Game Over | Volume |
+|------|----------|-----------|--------|
+| ![Menu](Images/menu.png) | ![Game](Images/game.png) | ![Game Over](Images/game_over.png) | ![Volume](Images/volume.png) |
+
+---
+
+## Gameplay Video
+
+[![Gameplay Video](Images/game.png)](Videos/gameplay.mp4)
+
+> Click the image to watch the gameplay video, or open `Videos/gameplay.mp4` directly.
 
 ---
 
