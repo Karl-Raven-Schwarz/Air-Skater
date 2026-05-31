@@ -20,7 +20,7 @@ An endless runner mobile game where you control a skater navigating through obst
 
 ## Gameplay Videoas
 
-<video src="./Videos/gameplay.mp4" controls width="100%">
+<video src="https://github.com/user-attachments/assets/df95422e-353c-4c9d-8885-64651d431ebf" controls width="100%">
   Your browser does not support the video element.
 </video>
 
