@@ -20,7 +20,7 @@ Un juego móvil de endless runner donde controlas a un patinador navegando a tra
 
 ## Video de Jugabilidad
 
-<video src="./Videos/gameplay.mp4" controls width="100%">
+<video src="https://github.com/user-attachments/assets/df95422e-353c-4c9d-8885-64651d431ebf" controls width="100%">
   Tu navegador no admite el elemento de video.
 </video>
 
