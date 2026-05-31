@@ -20,9 +20,9 @@ Un juego móvil de endless runner donde controlas a un patinador navegando a tra
 
 ## Video de Jugabilidad
 
-[![Video de Jugabilidad](Images/game.png)](Videos/gameplay.mp4)
-
-> Haz clic en la imagen para ver el video de jugabilidad, o abre `Videos/gameplay.mp4` directamente.
+<video src="./Videos/gameplay.mp4" controls width="100%">
+  Tu navegador no admite el elemento de video.
+</video>
 
 ---
 

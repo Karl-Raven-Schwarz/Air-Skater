@@ -18,11 +18,11 @@ An endless runner mobile game where you control a skater navigating through obst
 
 ---
 
-## Gameplay Video
+## Gameplay Videoas
 
-[![Gameplay Video](Images/game.png)](Videos/gameplay.mp4)
-
-> Click the image to watch the gameplay video, or open `Videos/gameplay.mp4` directly.
+<video src="./Videos/gameplay.mp4" controls width="100%">
+  Your browser does not support the video element.
+</video>
 
 ---
 
